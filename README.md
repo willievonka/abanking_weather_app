@@ -25,9 +25,8 @@
 - OpenStreetMap API
 - WeatherAPI
 
-## Запуск проекта
-1. Склонируйте репозиторий.
-2. Откройте файл [`index.html`](index.html) в браузере.
+## Деплой
+Приложение размещено на хостинге beget: http://nikol7qv.beget.tech/
 
 ## Ссылки
 - [WeatherAPI](https://www.weatherapi.com/)
